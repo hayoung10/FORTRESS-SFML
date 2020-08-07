@@ -1,0 +1,48 @@
+﻿  Fortress.cpp
+c:\users\문하영\desktop\sfml\external libraries\sfml\include\sfml\window\windowhandle.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(41): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(44): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(46): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(66): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(69): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(71): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(92): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(95): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(97): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(118): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(121): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(123): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(144): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(147): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(160): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(164): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(175): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(178): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(189): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(191): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(195): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(198): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(200): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(203): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Background.cpp
+c:\users\문하영\desktop\sfml\external libraries\sfml\include\sfml\window\windowhandle.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\문하영\desktop\sfml\sfml_project\background.cpp(18): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\background.cpp(19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\background.cpp(22): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\background.cpp(23): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2016603009_문하영.cpp
+c:\users\문하영\desktop\sfml\external libraries\sfml\include\sfml\window\windowhandle.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\문하영\desktop\sfml\sfml_project\2016603009_문하영.cpp(40): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\2016603009_문하영.cpp(42): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\2016603009_문하영.cpp(46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\문하영\desktop\sfml\sfml_project\2016603009_문하영.cpp(48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(55): warning C4715: 'Fortress::ShootCanon_Left': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(80): warning C4715: 'Fortress::ShootCanon_Right': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(106): warning C4715: 'Fortress::ShootMissile_Left': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\문하영\desktop\sfml\sfml_project\fortress.cpp(132): warning C4715: 'Fortress::ShootMissile_Right': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  MissileTank.cpp
+  CanonTank.cpp
+  SFML_Project.vcxproj -> C:\Users\문하영\Desktop\SFML\SFML_Project\Debug\SFML_Project.exe
+  SFML_Project.vcxproj -> C:\Users\문하영\Desktop\SFML\SFML_Project\Debug\SFML_Project.pdb (Full PDB)
