@@ -34,5 +34,9 @@ SFML을 활용한 FORTRESS 게임 구현 과제
 - Q,W 버튼으로 미사일 선택
 - space바를 한번 누르면 파워 게이지가 올라가고, 한번 더 누르면 오른 게이지만큼 보고 있는 방향으로 미사일 발사
 
+## 사용 프로그램
+- Visual Studio 2015
+- SFML 2.4.2
+
 ## Screenshots
 ![스크린샷](https://github.com/hayoung10/FORTRESS-SFML/issues/1#issue-674991031)
