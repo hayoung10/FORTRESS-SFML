@@ -39,4 +39,4 @@ SFML을 활용한 FORTRESS 게임 구현 과제
 - SFML 2.4.2
 
 ## Screenshots
-![스크린샷](https://github.com/hayoung10/FORTRESS-SFML/issues/1#issue-674991031)
+<img src="https://github.com/hayoung10/FORTRESS-SFML/issues/1#issue-674991031">
